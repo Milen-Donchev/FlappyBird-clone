@@ -1,4 +1,3 @@
-import { times } from 'lodash';
 import BaseScene from './BaseScene';
 
 class PlayScene extends BaseScene {
